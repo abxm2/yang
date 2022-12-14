@@ -1,6 +1,7 @@
 const BLOG = {
   title: 'WULIMAXH',
   author: 'wulimaxh',
+  authorAvatar: '/avatar.png',
   email: 'hi@abxm2.com',
   link: 'https://abxm2.com',
   description: '有时候话太多，也就写出来',
