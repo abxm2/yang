@@ -99,6 +99,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
                 </svg>
               </div>
             </a>
+            ✨ {BLOG.title}
           </Link>
           {navBarTitle
             ? (
