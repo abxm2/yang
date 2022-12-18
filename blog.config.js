@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'WULIMAXH',
-  author: 'wulimaxh',
+  title: 'YANG',
+  author: 'yang',
   authorAvatar: '/avatar.png',
-  email: 'hi@abxm2.com',
-  link: 'https://abxm2.com',
-  description: '有时候话太多，也就写出来',
+  email: 'jiaxiaoyang002@gmail.com',
+  link: 'https://yang.abxm2.com',
+  description: '独立记录',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -38,13 +38,13 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis
-    provider: 'gitalk', // leave it empty if you don't need any comment plugin
+    provider: '', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'blog', // The repository of store comments
-      owner: 'abxm2',
-      admin: ['abxm2'],
-      clientID: '7fda1e28b639a76e1a64',
-      clientSecret: 'f2e6951c34730117d665b59996d5cee48454a4f8',
+      repo: '', // The repository of store comments
+      owner: '',
+      admin: [''],
+      clientID: '',
+      clientSecret: '',
       distractionFreeMode: false
     },
     utterancesConfig: {
